@@ -1,6 +1,6 @@
-# pix2pix
+# Pix2pix
 
-This repo containes code for training my implementation of the Pix2pix model
+This repo containes code for training my implementation of the Pix2pix model.
 
 ## Model architecture
 ![image](https://user-images.githubusercontent.com/40829870/118866207-6f0e5380-b8ea-11eb-8b3b-a56c9ca7223e.png)
